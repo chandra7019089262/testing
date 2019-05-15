@@ -36,7 +36,7 @@
   * $.serviceinstancecreate.data.requestDetails.subscriberInfo.globalSubscriberId
   * $.serviceInstanceDelete.uri (/aai/v14/business/customers/customer/**_<Subscriber_Name>_**/service-subscriptions/service-subscription/vFWCL/service-instances/service-instance) (Change <Subscriber_Name> in the uri)
 * SDNCPreload_vFW.json of location VNFCertification\Trunk\etc\data need to be modified according to the reqirements.
-* Run [Execution Steps](Execution-Steps)
+* Run [Execution Steps](#Execution-Steps)
 
 
 
