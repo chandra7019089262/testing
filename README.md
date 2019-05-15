@@ -12,7 +12,7 @@
 
  
 
-# **Execution Steps** :
+# Execution Steps
 * Modify required changes in the TestData of location VNFCertification\Trunk\etc\data\TestData, Refer [Testdata_ONAP.json](#Testdata-ONAP) / [Testdata_OSM.json](#Testdata-OSM)
 * Build TestPlan as per requirement, Refer [TestPlan.txt](#TestPlan)
 * Run robot script 
